@@ -1,0 +1,52 @@
+[
+  {
+    "model": "recipes.recipe",
+    "pk": 1,
+    "fields": {
+      "title": "Fresh Garden Salad",
+      "category": "Salads",
+      "image_url": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A vibrant salad featuring a mix of garden-fresh vegetables and a light vinaigrette."
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 2,
+    "fields": {
+      "title": "Hearty Kale Salad",
+      "category": "Salads",
+      "image_url": "https://images.unsplash.com/photo-1475856033578-76b4a228f5c5?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A nutritious kale salad with roasted chickpeas, avocado, and a tangy lemon dressing."
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 3,
+    "fields": {
+      "title": "Crunchy Veggie Salad",
+      "category": "Salads",
+      "image_url": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A colorful salad with an assortment of fresh vegetables and a crunchy texture."
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 4,
+    "fields": {
+      "title": "Classic Mediterranean Salad",
+      "category": "Salads",
+      "image_url": "https://images.unsplash.com/photo-1506459225024-1428097a7e18?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A classic Mediterranean salad with olives, feta cheese, and a drizzle of olive oil."
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 5,
+    "fields": {
+      "title": "Avocado and Tomato Salad",
+      "category": "Salads",
+      "image_url": "https://images.unsplash.com/photo-1505976311692-e64b8bbd6cfa?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A simple yet delicious salad featuring ripe avocados and juicy tomatoes with a hint of cilantro."
+    }
+  }
+]
